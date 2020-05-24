@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+import javax.xml.ws.http.HTTPException;
+
 public class Main {
 	
 	 
@@ -36,7 +38,7 @@ public class Main {
     	
     	Object o=new Object();
     	Runtime r=Runtime.getRuntime();
-    	
+    	HTTPException ht;
     	
     	
     	
