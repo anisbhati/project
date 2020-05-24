@@ -1,6 +1,7 @@
 package pattern;
 
 
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -29,5 +30,13 @@ public class Main {
     	}
      // this is first change
     	// this is second changes
+    	
+    	// this is child changes
+        // this is child third changes
+    	
+    	Object o=new Object();
+    	
+    	
+    	
 	}
 }
