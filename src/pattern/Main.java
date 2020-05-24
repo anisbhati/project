@@ -35,6 +35,8 @@ public class Main {
         // this is child third changes
     	
     	Object o=new Object();
+    	Runtime r=Runtime.getRuntime();
+    	
     	
     	
     	
