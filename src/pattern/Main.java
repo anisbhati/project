@@ -30,15 +30,7 @@ public class Main {
     		
     		System.out.println();
     	}
-     // this is first change
-    	// this is second changes
-    	
-    	// this is child changes
-        // this is child third changes
-    	
-    	Object o=new Object();
-    	Runtime r=Runtime.getRuntime();
-    	HTTPException ht;
+ 
     	
     	
     	
